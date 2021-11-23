@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="title_activity_detail_movie">DetailMovieActivity</string>
+    <string name="title_activity_detail_tv_show">DetailTvShowActivity</string>
+
+    <string name="detailMovie">Detail Movie</string>
+    <string name="detailTvShow">Detail Tv Show</string>
+    <string name="catalogue">Catalogue</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="judul">Judul</string>
+    <string name="genre">Genre</string>
+    <string name="duration">Duration</string>
+    <string name="item_poster">item_poster</string>
+    <string name="postermovie">posterMovie</string>
+    <string name="judul_movie">Judul Movie</string>
+    <string name="genre_movie">Genre Movie</string>
+    <string name="director">Director</string>
+    <string name="user_score">User Score</string>
+    <string name="overview">Overview</string>
+    <string name="userscoremovie">userScoreMovie</string>
+    <string name="durationmovie">durationMovie</string>
+    <string name="movie">MOVIE</string>
+    <string name="tv_show">TV SHOW</string>
+    <string name="creator">Creator</string>
+    <string name="logosplash">LogoSplash</string>
+    <string name="catalogue_splash">CATALOGUE</string>
+    <string name="movie_and_tv_show">Movie and Tv Show</string>
+    <string name="by_m_dzikri_alfarisyi">By M. Dzikri Alfarisyi</string>
+</resources>
